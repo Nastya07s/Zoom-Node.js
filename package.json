@@ -1,0 +1,23 @@
+{
+  "name": "zoom-node",
+  "version": "1.0.0",
+  "description": "Zoom Clone with Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nastya07s/Zoom-Node.js.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Nastya07s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nastya07s/Zoom-Node.js/issues"
+  },
+  "homepage": "https://github.com/Nastya07s/Zoom-Node.js#readme"
+}
